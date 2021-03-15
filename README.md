@@ -1,1 +1,3 @@
-# Resolução de Problemas do Uri Online Judge em Python 3
+# Problemas do Uri Online Judge
+
+Resolução em Python 3
